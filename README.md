@@ -1,7 +1,8 @@
-# Proyecto-GIT 2021
-(❍ᴥ❍ʋ)->Proyecto para aprender git y github
-## Apuntes
-´´´
+# (❍ᴥ❍ʋ)-> Proyecto-GIT 2021
+ En breve se nuestra lo aprendido en el curso de introduccion a git.
+## Git 2021
+### Aprendiendo Ando
+```
 ⫸⫸⫸⫸⫸⫸⫸⫸⫸⫸⫸⫸⫸⫸⫸⫸⫸⫸⫸⫸⫸⫸⫸⫸⫸⫸⫸⫸⫸⫸⫸⫸⫸⫸⫸⫸⫸⫸⫸⫸⫸⫸
 Introducción a git
 ● Git es una herramienta de código abierto que la inició Linus Torvalds, el
@@ -115,3 +116,4 @@ Sincronizar git con github
 git
 
 ⫸⫸⫸⫸⫸⫸⫸⫸⫸⫸⫸⫸⫸⫸⫸⫸⫸⫸⫸⫸⫸⫸⫸⫸⫸⫸⫸⫸⫸⫸⫸
+´´´
